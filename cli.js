@@ -1,3 +1,4 @@
 #!/usr/bin/env node
 const fs = require('fs')
-fs.createReadStream('./README.md').pipe(process.stdout)
+const path = require('path')
+fs.createReadStream(path.join(__dirname, 'README.md')).pipe(process.stdout)
