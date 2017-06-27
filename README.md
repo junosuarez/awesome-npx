@@ -32,6 +32,9 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [figlet-cli](https://github.com/patorjk/figlet-cli) - the classic multi-line ascii text generator, with font support
 `npx figlet-cli <text>`
 
+### [http-server](https://github.com/indexzero/http-server) - run a static web server in your current directory
+`npx http-server`
+
 ### [shx](https://github.com/shelljs/shx) - portable shell commands like ls, cp, rm
 `npx shx ls`
 `npx shx rm -rf /tmp`
