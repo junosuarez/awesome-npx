@@ -25,12 +25,9 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 > npx awesome-npx
 ```
 
-## packages which work well with npx
-### [cowsay](https://github.com/piuccio/cowsay) - adds cow ascii art to your special message
-`npx cowsay <text>`
+## packages which work well with npx:
 
-### [figlet-cli](https://github.com/patorjk/figlet-cli) - the classic multi-line ascii text generator, with font support
-`npx figlet-cli <text>`
+## useful
 
 ### [http-server](https://github.com/indexzero/http-server) - run a static web server in your current directory
 `npx http-server`
@@ -39,6 +36,17 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 `npx shx ls`
 `npx shx rm -rf /tmp`
 
+
+## fun
+
+### [cowsay](https://github.com/piuccio/cowsay) - adds cow ascii art to your special message
+`npx cowsay <text>`
+
+### [figlet-cli](https://github.com/patorjk/figlet-cli) - the classic multi-line ascii text generator, with font support
+`npx figlet-cli <text>`
+
+### [workin-hard](https://github.com/jshemas/workinHard) - a clone of [hackertyper.com](http://hackertyper.com/)
+`npx workin-hard`
 
 ## articles and resources
 - write one and we'll link it here!
