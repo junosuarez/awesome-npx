@@ -2,11 +2,11 @@
   "name": "awesome-npx",
   "version": "1.0.0",
   "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/js-n/awesome-npx.git"
   },
+  "bin": "cli.js",
   "license": "CC0-1.0",
   "bugs": {
     "url": "https://github.com/js-n/awesome-npx/issues"
