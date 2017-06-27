@@ -26,13 +26,13 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ```
 
 ## packages which work well with npx
-### [cowsay]() - adds cow ascii art to your special message
+### [cowsay](https://github.com/piuccio/cowsay) - adds cow ascii art to your special message
 `npx cowsay <text>`
 
-### [figlet-cli]() - the classic multi-line ascii text generator, with font support
+### [figlet-cli](https://github.com/patorjk/figlet-cli) - the classic multi-line ascii text generator, with font support
 `npx figlet-cli <text>`
 
-### [shx]() - portable shell commands like ls, cp, rm
+### [shx](https://github.com/shelljs/shx) - portable shell commands like ls, cp, rm
 `npx shx ls`
 `npx shx rm -rf /tmp`
 
