@@ -2,7 +2,11 @@
 🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶
 
 ## npx itself is awesome
-`npx` lets you execute npm package binaries without installing them, e.g.
+`npx` lets you execute npm package binaries without installing them. `npx` is the last thing you need to globally install:
+`> npm i -g npx` (this command also updates npx)
+
+Now you can execute tools from npm packages without having to install them globally:
+
 ```sh
 > npx cowsay wow
 npx: installed 1 in 1.413s
@@ -16,13 +20,18 @@ npx: installed 1 in 1.413s
                 ||     ||
 ```
 
+you can even use `npx` to view this list of `awesome-npx` tools:
+```sh
+> npx awesome-npx
+```
+
 ## packages which work well with npx
 ### [cowsay]() - adds cow ascii art to your special message
 `npx cowsay <text>`
 
 ### [figlet-cli]() - the classic multi-line ascii text generator, with font support
 `npx figlet-cli <text>`
-  
+
 ### [shx]() - portable shell commands like ls, cp, rm
 `npx shx ls`
 `npx shx rm -rf /tmp`
