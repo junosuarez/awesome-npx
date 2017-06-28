@@ -29,6 +29,10 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 ## useful
 
+### [alex](https://github.com/wooorm/alex) - check text or markdown documents for insensitive or inconsiderate writing
+`npx alex README.md`
+`cat README.md | npx alex`
+
 ### [http-server](https://github.com/indexzero/http-server) - run a static web server in your current directory
 `npx http-server`
 
