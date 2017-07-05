@@ -44,6 +44,13 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 `npx shx rm -rf /tmp`
 
 
+## node.js development
+
+### [npm-check](https://github.com/dylang/npm-check) - interactively update npm dependencies
+`npx npm-check`
+`npx npm-check --skip-unused --update`
+
+
 ## fun
 
 ### [cowsay](https://github.com/piuccio/cowsay) - adds cow ascii art to your special message
