@@ -43,16 +43,14 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 `npx shx ls`
 `npx shx rm -rf /tmp`
 
-### [sort-package-json](https://github.com/keithamus/sort-package-json) - sort your package.json keys!
-`npx sort-package-json`
-
-
 ## node.js development
 
 ### [npm-check](https://github.com/dylang/npm-check) - interactively update npm dependencies
 `npx npm-check`
 `npx npm-check --skip-unused --update`
 
+### [sort-package-json](https://github.com/keithamus/sort-package-json) - sort your package.json keys!
+`npx sort-package-json`
 
 ## fun
 
