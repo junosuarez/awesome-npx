@@ -60,6 +60,9 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [figlet-cli](https://github.com/patorjk/figlet-cli) - the classic multi-line ascii text generator, with font support
 `npx figlet-cli <text>`
 
+### [lolcatjs](https://github.com/robertboloc/lolcatjs) - colorful rainbow text from a file or stdin
+`echo hello | npx lolcatjs --animate` `npx lolcatjs /dev/urandom`
+
 ### [workin-hard](https://github.com/jshemas/workinHard) - a clone of [hackertyper.com](http://hackertyper.com/)
 `npx workin-hard`
 
