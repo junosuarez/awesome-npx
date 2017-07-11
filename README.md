@@ -45,6 +45,9 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 ## 🐢🚀 node.js development
 
+### [dist-upgrade](https://github.com/zacanger/dist-upgrade) - update global Node and npm, by way of npx
+`npx dist-upgrade`
+
 ### [npm-check](https://github.com/dylang/npm-check) - interactively update npm dependencies
 `npx npm-check`
 `npx npm-check --skip-unused --update`
