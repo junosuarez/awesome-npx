@@ -54,6 +54,9 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 ## fun
 
+### [benny-hill](https://npm.im/benny-hill) - plays benny-hill theme music while a command is running!
+`npx benny-hill npm test`
+
 ### [cowsay](https://github.com/piuccio/cowsay) - adds cow ascii art to your special message
 `npx cowsay <text>`
 
