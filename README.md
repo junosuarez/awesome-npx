@@ -49,12 +49,12 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 `npx npm-check`
 `npx npm-check --skip-unused --update`
 
-### [sort-package-json](https://github.com/keithamus/sort-package-json) - sort your package.json keys!
+### [sort-package-json](https://github.com/keithamus/sort-package-json) - sort your package.json keys
 `npx sort-package-json`
 
 ## fun
 
-### [benny-hill](https://npm.im/benny-hill) - plays benny-hill theme music while a command is running!
+### [benny-hill](https://npm.im/benny-hill) - plays benny-hill theme music while a command is running
 `npx benny-hill npm test`
 
 ### [cowsay](https://github.com/piuccio/cowsay) - adds cow ascii art to your special message
