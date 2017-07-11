@@ -7,7 +7,7 @@
 
 Now you can execute tools from npm packages without having to install them globally:
 
-```sh
+```
 > npx cowsay wow
 npx: installed 1 in 1.413s
  _____
@@ -21,7 +21,7 @@ npx: installed 1 in 1.413s
 ```
 
 you can even use `npx` to view this list of `awesome-npx` tools:
-```sh
+```
 > npx awesome-npx
 ```
 
