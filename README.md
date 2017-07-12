@@ -22,7 +22,7 @@ npx: installed 1 in 1.413s
 
 you can even use `npx` to view this list of `awesome-npx` tools:
 ```sh
-> npx awesome-npx | npx lessmd | less
+> npx awesome-npx | npx lessmd
 ```
 
 ## packages which work well with npx:
