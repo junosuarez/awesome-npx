@@ -40,6 +40,10 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [http-server](https://github.com/indexzero/http-server) - run a static web server in your current directory
 `npx http-server`
 
+### [lessmd](https://github.com/linuxenko/lessmd) - render and display markdown files in the terminal
+`npx lessmd README.md`
+`npx awesome-npx | npx lessmd`
+
 ### [okimdone](https://github.com/zkat/okimdone) - execute a long-running command and be told out loud when it's done
 `npx okimdone npm install`
 
