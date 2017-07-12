@@ -39,7 +39,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [http-server](https://github.com/indexzero/http-server) - run a static web server in your current directory
 `npx http-server`
 
-### [okimdone](https://npm.im/okimdone) - execute a long-running command and be told out loud when it's done
+### [okimdone](https://github.com/zkat/okimdone) - execute a long-running command and be told out loud when it's done
 `npx okimdone npm install`
 
 ### [shx](https://github.com/shelljs/shx) - portable shell commands like ls, cp, rm
