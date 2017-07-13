@@ -50,6 +50,9 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 `npx shx ls`
 `npx shx rm -rf /tmp`
 
+### [strip-ansi-cli](https://github.com/chalk/strip-ansi-cli) - remove terminal color codes from piped text
+`echo -e "\033[33m hello" | npx strip-ansi-cli`
+
 ## 🐢🚀 node.js development
 
 ### [npm-check](https://github.com/dylang/npm-check) - interactively update npm dependencies
