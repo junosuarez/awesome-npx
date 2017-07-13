@@ -74,7 +74,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 `npx figlet-cli <text>`
 
 ### [lolcatjs](https://github.com/robertboloc/lolcatjs) - colorful rainbow text from a file or stdin
-`echo hello | npx lolcatjs --animate` `npx lolcatjs /dev/urandom`
+`echo hello | npx lolcatjs --animate` `cat /dev/urandom | base64 | npx lolcatjs`
 
 ### [workin-hard](https://github.com/jshemas/workinHard) - a clone of [hackertyper.com](http://hackertyper.com/)
 `npx workin-hard`
