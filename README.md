@@ -43,6 +43,12 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [json-server](https://github.com/typicode/json-server) - run a mock REST API server with JSON-based response configuration
 `npx json-server https://raw.githubusercontent.com/typicode/jsonplaceholder/master/data.json`
 
+### [NodeSchool Workshoppers](https://nodeschool.io/#workshoppers) - Learn something new!
+`npx learnyounode`
+`npx how-to-npm`
+`npx git-it`
+`npx elementary-electron`
+
 ### [okimdone](https://github.com/zkat/okimdone) - execute a long-running command and be told out loud when it's done
 `npx okimdone npm install`
 
