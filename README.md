@@ -1,4 +1,5 @@
-# awesome-npx
+# awesome-npx [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶
 
 ## ✨ npx itself is awesome
@@ -39,18 +40,40 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [http-server](https://github.com/indexzero/http-server) - run a static web server in your current directory
 `npx http-server`
 
+### [json-server](https://github.com/typicode/json-server) - run a mock REST API server with JSON-based response configuration
+`npx json-server https://raw.githubusercontent.com/typicode/jsonplaceholder/master/data.json`
+
+### [NodeSchool Workshoppers](https://nodeschool.io/#workshoppers) - Learn something new!
+`npx learnyounode`
+`npx how-to-npm`
+`npx git-it`
+`npx elementary-electron`
+
+### [okimdone](https://github.com/zkat/okimdone) - execute a long-running command and be told out loud when it's done
+`npx okimdone npm install`
+
 ### [shx](https://github.com/shelljs/shx) - portable shell commands like ls, cp, rm
 `npx shx ls`
 `npx shx rm -rf /tmp`
+
+### [strip-ansi-cli](https://github.com/chalk/strip-ansi-cli) - remove terminal color codes from piped text
+`echo -e "\033[33m hello" | npx strip-ansi-cli`
 
 ## 🐢🚀 node.js development
 
 ### [dist-upgrade](https://github.com/zacanger/dist-upgrade) - update global Node and npm, by way of npx
 `npx dist-upgrade`
 
+### [snyk](https://github.com/snyk/snyk) - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
+`npx snyk test`
+`npx snyk monitor`
+
 ### [npm-check](https://github.com/dylang/npm-check) - interactively update npm dependencies
 `npx npm-check`
 `npx npm-check --skip-unused --update`
+
+### [nsp](https://github.com/nodesecurity/nsp) - scan your npm project for vulnerabilities and security alerts
+`npx nsp check`
 
 ### [sort-package-json](https://github.com/keithamus/sort-package-json) - sort your package.json keys
 `npx sort-package-json`
@@ -67,7 +90,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 `npx figlet-cli <text>`
 
 ### [lolcatjs](https://github.com/robertboloc/lolcatjs) - colorful rainbow text from a file or stdin
-`echo hello | npx lolcatjs --animate` `npx lolcatjs /dev/urandom`
+`echo hello | npx lolcatjs --animate` `cat /dev/urandom | base64 | npx lolcatjs`
 
 ### [workin-hard](https://github.com/jshemas/workinHard) - a clone of [hackertyper.com](http://hackertyper.com/)
 `npx workin-hard`
