@@ -34,6 +34,9 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 `npx alex README.md`
 `cat README.md | npx alex`
 
+### [duhstar](https://github.com/davidguttman/duhstar) - easily see what's taking up disk space (sorted `du -hs *`)
+`npx duhstar [/some/path]`
+
 ### [ghub-cli](https://github.com/js-n/ghub-cli) - redirect to a npm package's GitHub page from your terminal
 `npx ghub-cli awesome-npx` will bring you right back to this page :)
 
