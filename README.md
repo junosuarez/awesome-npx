@@ -61,9 +61,16 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 ## 🐢🚀 node.js development
 
+### [snyk](https://github.com/snyk/snyk) - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
+`npx snyk test`
+`npx snyk monitor`
+
 ### [npm-check](https://github.com/dylang/npm-check) - interactively update npm dependencies
 `npx npm-check`
 `npx npm-check --skip-unused --update`
+
+### [nsp](https://github.com/nodesecurity/nsp) - scan your npm project for vulnerabilities and security alerts
+`npx nsp check`
 
 ### [sort-package-json](https://github.com/keithamus/sort-package-json) - sort your package.json keys
 `npx sort-package-json`
