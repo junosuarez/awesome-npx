@@ -34,9 +34,6 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 `npx alex README.md`
 `cat README.md | npx alex`
 
-### [ghub-cli](https://github.com/js-n/ghub-cli) - redirect to a npm package's GitHub page from your terminal
-`npx ghub-cli awesome-npx` will bring you right back to this page :)
-
 ### [http-server](https://github.com/indexzero/http-server) - run a static web server in your current directory
 `npx http-server`
 
