@@ -58,6 +58,9 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 ## 🐢🚀 node.js development
 
+### [dist-upgrade](https://github.com/zacanger/dist-upgrade) - install the latest global node and npm
+`npx dist-upgrade`
+
 ### [snyk](https://github.com/snyk/snyk) - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
 `npx snyk test`
 `npx snyk monitor`
