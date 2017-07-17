@@ -26,6 +26,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 > npx awesome-npx
 ```
 
+
 ## 📦 packages which work well with npx:
 
 ## 🛠 useful
@@ -33,6 +34,9 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [alex](https://github.com/wooorm/alex) - check text or markdown documents for insensitive or inconsiderate writing
 `npx alex README.md`
 `cat README.md | npx alex`
+
+### [decode-zhuyin](https://github.com/tpai/decode-zhuyin) - decode Chinese word to Zhuyin password
+`npx decode-zhuyin <text>`
 
 ### [http-server](https://github.com/indexzero/http-server) - run a static web server in your current directory
 `npx http-server`
@@ -56,14 +60,11 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [strip-ansi-cli](https://github.com/chalk/strip-ansi-cli) - remove terminal color codes from piped text
 `echo -e "\033[33m hello" | npx strip-ansi-cli`
 
+
 ## 🐢🚀 node.js development
 
 ### [dist-upgrade](https://github.com/zacanger/dist-upgrade) - install the latest global node and npm
 `npx dist-upgrade`
-
-### [snyk](https://github.com/snyk/snyk) - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
-`npx snyk test`
-`npx snyk monitor`
 
 ### [npm-check](https://github.com/dylang/npm-check) - interactively update npm dependencies
 `npx npm-check`
@@ -72,8 +73,13 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [nsp](https://github.com/nodesecurity/nsp) - scan your npm project for vulnerabilities and security alerts
 `npx nsp check`
 
+### [snyk](https://github.com/snyk/snyk) - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
+`npx snyk test`
+`npx snyk monitor`
+
 ### [sort-package-json](https://github.com/keithamus/sort-package-json) - sort your package.json keys
 `npx sort-package-json`
+
 
 ## 😺 fun
 
@@ -92,12 +98,11 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [workin-hard](https://github.com/jshemas/workinHard) - a clone of [hackertyper.com](http://hackertyper.com/)
 `npx workin-hard`
 
-### [decode-zhuyin](https://github.com/tpai/decode-zhuyin) - decode Chinese word to Zhuyin password
-`npx decode-zhuyin <text>`
 
 ## 📰 articles and resources
 - [Introducing npx: an npm package runner](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
 - write one and we'll link it here!
+
 
 ## 📇 etc
 Please read the [CONTRIBUTING.md](https://github.com/js-n/awesome-npx/blob/master/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/js-n/awesome-npx/blob/master/CODE_OF_CONDUCT.md) docs. Everything in this repo is licensed [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) unless otherwise noted. Thank you for being awesome!
