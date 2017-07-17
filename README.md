@@ -89,6 +89,9 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [workin-hard](https://github.com/jshemas/workinHard) - a clone of [hackertyper.com](http://hackertyper.com/)
 `npx workin-hard`
 
+### [decode-zhuyin](https://github.com/tpai/decode-zhuyin) - decode Chinese word to Zhuyin password
+`npx decode-zhuyin <text>`
+
 ## 📰 articles and resources
 - [Introducing npx: an npm package runner](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
 - write one and we'll link it here!
