@@ -23,7 +23,7 @@ npx: installed 1 in 1.413s
 
 you can even use `npx` to view this list of `awesome-npx` tools:
 ```
-> npx awesome-npx
+> npx awesome-npx | npx lessmd
 ```
 
 
