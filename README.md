@@ -53,6 +53,9 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [okimdone](https://github.com/zkat/okimdone) - execute a long-running command and be told out loud when it's done
 `npx okimdone npm install`
 
+### [pa11y](https://github.com/pa11y/pa11y) - check websites for accessibility issues
+`npx pa11y http://example.com`
+
 ### [shx](https://github.com/shelljs/shx) - portable shell commands like ls, cp, rm
 `npx shx ls`
 `npx shx rm -rf /tmp`
