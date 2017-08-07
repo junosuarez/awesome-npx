@@ -38,6 +38,9 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [decode-zhuyin](https://github.com/tpai/decode-zhuyin) - decode Chinese word to Zhuyin password
 `npx decode-zhuyin <text>`
 
+### [goops](https://github.com/captainsafia/goops) - add gitignore rules heuristically based on files in your current directory
+`npx goops`
+
 ### [http-server](https://github.com/indexzero/http-server) - run a static web server in your current directory
 `npx http-server`
 
