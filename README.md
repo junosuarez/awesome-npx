@@ -76,6 +76,9 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 `npx npm-check`
 `npx npm-check --skip-unused --update`
 
+### [npm-windows-upgrade](https://www.npmjs.com/package/npm-windows-upgrade) - upgrade your npm on Windows even when `npm i -g npm` does not work
+`npx npm-windows-upgrade`
+
 ### [nsp](https://github.com/nodesecurity/nsp) - scan your npm project for vulnerabilities and security alerts
 `npx nsp check`
 
