@@ -76,6 +76,10 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 `npx npm-check`
 `npx npm-check --skip-unused --update`
 
+### [npm-show-versions](https://github.com/iarna/npm-show-versions) - show versions, dist-tags and restrictions
+`npx npm-show-versions awesome-npx`
+`npx npm-show-versions awesome-npx@~1.0.0`
+
 ### [nsp](https://github.com/nodesecurity/nsp) - scan your npm project for vulnerabilities and security alerts
 `npx nsp check`
 
