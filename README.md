@@ -86,6 +86,8 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [sort-package-json](https://github.com/keithamus/sort-package-json) - sort your package.json keys
 `npx sort-package-json`
 
+### [trymodule](https://www.npmjs.com/package/trymodule) - open up a Node REPL with a module you're considering trying without installing anything
+`npx trymodule colors`
 
 ## 😺 fun
 
