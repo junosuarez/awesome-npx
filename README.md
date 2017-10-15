@@ -38,6 +38,9 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [decode-zhuyin](https://github.com/tpai/decode-zhuyin) - decode Chinese word to Zhuyin password
 `npx decode-zhuyin <text>`
 
+### [generate-wordlist](https://github.com/zacanger/generate-wordlist) - generate a list of unique words from an input file
+`npx generate-wordlist <inputfile> <outputfile>`
+
 ### [goops](https://github.com/captainsafia/goops) - add gitignore rules heuristically based on files in your current directory
 `npx goops`
 
