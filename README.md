@@ -41,6 +41,9 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [goops](https://github.com/captainsafia/goops) - add gitignore rules heuristically based on files in your current directory
 `npx goops`
 
+### [handbrake-cli](https://github.com/iarna/handbrake-cli) - (install and) run the handbrake CLI for video encoding on Mac and Windows
+`npx handbrake-cli`
+
 ### [http-server](https://github.com/indexzero/http-server) - run a static web server in your current directory
 `npx http-server`
 
