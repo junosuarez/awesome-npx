@@ -41,6 +41,10 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [goops](https://github.com/captainsafia/goops) - add gitignore rules heuristically based on files in your current directory
 `npx goops`
 
+### [http-codes-cli](https://github.com/zacanger/http-codes-cli) - check what an http status code means
+`npx http-codes-cli 404`
+`npx http-codes-cli 'Not Found'`
+
 ### [http-server](https://github.com/indexzero/http-server) - run a static web server in your current directory
 `npx http-server`
 
