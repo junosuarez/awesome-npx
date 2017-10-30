@@ -86,6 +86,9 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [sort-package-json](https://github.com/keithamus/sort-package-json) - sort your package.json keys
 `npx sort-package-json`
 
+### [create-bot](https://github.com/telegraf/create-bot) - scaffold Telegram chatbot
+`npx create-bot`
+`npx create-bot my-cool-chatbot`
 
 ## 😺 fun
 
