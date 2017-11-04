@@ -38,6 +38,10 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [decode-zhuyin](https://github.com/tpai/decode-zhuyin) - decode Chinese word to Zhuyin password
 `npx decode-zhuyin <text>`
 
+### [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - Access the system clipboard (copy/paste)
+`npm dist-tag ls react | grep latest | npx clipboard-cli #copy`
+`npx clipboard-cli #paste`
+
 ### [goops](https://github.com/captainsafia/goops) - add gitignore rules heuristically based on files in your current directory
 `npx goops`
 
