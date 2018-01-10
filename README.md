@@ -69,7 +69,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 ## 🐢🚀 node.js development
 
-### [dist-upgrade](https://github.com/zacanger/dist-upgrade) - install the latest global node and npm
+### [dist-upgrade](https://github.com/zacanger/dist-upgrade) - install the latest global node, npm, and npx
 `npx dist-upgrade`
 
 ### [npm-check](https://github.com/dylang/npm-check) - interactively update npm dependencies
