@@ -66,6 +66,9 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [strip-ansi-cli](https://github.com/chalk/strip-ansi-cli) - remove terminal color codes from piped text
 `echo -e "\033[33m hello" | npx strip-ansi-cli`
 
+### [simopen](https://github.com/caiogondim/simopen) - open given URL on iOS Simulator
+`npx simopen https://nytimes.com`
+
 
 ## 🐢🚀 node.js development
 
