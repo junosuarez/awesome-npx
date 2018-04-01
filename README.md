@@ -86,6 +86,9 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [sort-package-json](https://github.com/keithamus/sort-package-json) - sort your package.json keys
 `npx sort-package-json`
 
+### [wtfwith](https://github.com/jehy/wtfwith) - check usage of multiple instances of libraries in your project
+`npx wtfwith lodash` or `npx wtfwith everything`
+
 
 ## 😺 fun
 
