@@ -47,7 +47,6 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [hypertunnel](https://github.com/berstend/hypertunnel) - expose any local TCP/IP service on the internet
 `npx hypertunnel --port 8080`
 
-
 ### [json-server](https://github.com/typicode/json-server) - run a mock REST API server with JSON-based response configuration
 `npx json-server https://raw.githubusercontent.com/typicode/jsonplaceholder/master/data.json`
 
