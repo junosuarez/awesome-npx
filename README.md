@@ -107,6 +107,8 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [workin-hard](https://github.com/jshemas/workinHard) - a clone of [hackertyper.com](http://hackertyper.com/)
 `npx workin-hard`
 
+### [splash-cli](https://github.com/splash-cli) - set beautiful [unsplash.com](https://unsplash.com/) photo of the day as wallpaper
+`npx splash-cli --day`
 
 ## 📰 articles and resources
 - [Introducing npx: an npm package runner](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
