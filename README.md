@@ -66,6 +66,9 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 ### [strip-ansi-cli](https://github.com/chalk/strip-ansi-cli) - remove terminal color codes from piped text
 `echo -e "\033[33m hello" | npx strip-ansi-cli`
 
+### [czg](https://github.com/Zhengqbbb/cz-git) - interactive Commitizen CLI that generate standardized commit messages
+`npx czg`
+
 
 ## 🐢🚀 node.js development
 
